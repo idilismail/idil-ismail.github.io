@@ -9,11 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* PhD, Theoretical and Computational Chemistry, University of Warwick, 2023 
+  * Supervisor: Prof. Scott Habershon 
+  * Title: <i>"Accelerating Chemical Reaction Discovery Using Graph-driven Searches and Machine Learning Strategies"</i>.
+  * PhD funding received from EPSRC Centre for Doctoral Training in Modelling of Heterogeneous Systems.
+* PGDip, Modelling of Heterogeneous Systems, University of Warwick, 2021
+* MSc, Chemistry, University of Warwick, 2019
+* BSc (Hons), Biochemistry, University of Salford, 2018
+  * Final Year Project: <i>"The interaction of terpenes with water and aqueous alcohol solutions"</i>, supervised by Dr Anna Akinshina.
+
 
 Work experience
 ======
