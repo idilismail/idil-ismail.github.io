@@ -82,39 +82,13 @@ analytics:
 author:
   name             : "Idil Ismail"
   avatar           : "id_photo.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  bio              : "PhD Computational Chemistry"
+  googlescholar    : "https://scholar.google.com/citations?user=i5USviQAAAAJ&hl=en"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Idil-Ismail-3"
   github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/idil-ismail-1b2a6a13b/"
   orcid            : "https://orcid.org/0000-0003-0922-2227"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "@IdilIsmail20"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
