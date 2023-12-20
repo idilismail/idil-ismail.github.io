@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Idil Ismail"
-  avatar           : "id_photo.png"
-  bio              : "PhD Computational Chemistry"
+  avatar           : "photo.png"
+  bio              : "Computational Chemist"
   googlescholar    : "https://scholar.google.com/citations?user=i5USviQAAAAJ&hl=en"
   researchgate     :  # example: "https://www.researchgate.net/profile/Idil-Ismail-3"
-  github           : "academicpages"
-  linkedin         : "https://www.linkedin.com/in/idil-ismail-1b2a6a13b/"
+  github           : "https://github.com/idilismail"
+  linkedin         : "www.linkedin.com/in/idil-ismail-1b2a6a13b"
   orcid            : "https://orcid.org/0000-0003-0922-2227"
   twitter          : "@IdilIsmail20"
 
