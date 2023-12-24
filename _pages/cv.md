@@ -17,23 +17,12 @@ Education
   * Title: <i>"Accelerating Chemical Reaction Discovery Using Graph-driven Searches and Machine Learning Strategies"</i>.
   * PhD funding received from EPSRC Centre for Doctoral Training in Modelling of Heterogeneous Systems.
 * PGDip, Modelling of Heterogeneous Systems, University of Warwick, 2021
-* MSc, Chemistry, University of Warwick, 2019
+* MSc (by Research), Chemistry (Theory and Computation), University of Warwick, 2019
+  * Dissertation Title: <i>"Automatic Prediction of Complex Chemical Reaction Routes: Application to Heterogeneous Catalysis"</i>, supervised by Prof. Scott Habershon.
 * BSc (Hons), Biochemistry, University of Salford, 2018
   * Final Year Project: <i>"The interaction of terpenes with water and aqueous alcohol solutions"</i>, supervised by Dr Anna Akinshina.
 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
