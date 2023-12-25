@@ -1,7 +1,6 @@
 ---
 title: "Graph-driven reaction discovery: Progress, challenges, and future opportunities"
 collection: publications
-permalink: /_publication/paper4.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-10-3
 venue: " The Journal of Physical Chemistry A <b>126</b>, 40”
