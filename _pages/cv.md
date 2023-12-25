@@ -18,9 +18,11 @@ Education
   * PhD funding received from EPSRC Centre for Doctoral Training in Modelling of Heterogeneous Systems.
 * PGDip, Modelling of Heterogeneous Systems, University of Warwick, 2021
 * MSc (by Research), Chemistry (Theory and Computation), University of Warwick, 2019
-  * Dissertation Title: <i>"Automatic Prediction of Complex Chemical Reaction Routes: Application to Heterogeneous Catalysis"</i>, supervised by Prof. Scott Habershon.
+  * Supervisor: Prof. Scott Habershon
+  * Title: <i>"Automatic Prediction of Complex Chemical Reaction Routes: Application to Heterogeneous Catalysis"</i>.
 * BSc (Hons), Biochemistry, University of Salford, 2018
-  * Final Year Project: <i>"The interaction of terpenes with water and aqueous alcohol solutions"</i>, supervised by Dr Anna Akinshina.
+  * Supervisor: Dr. Anna Akinshina
+  * Final Year Project: <i>"The interaction of terpenes with water and aqueous alcohol solutions"</i>.
 
 
 Skills
@@ -31,6 +33,9 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+* **Programming**: Python, Fortran, Git, UNIX/Bash, HighPer formance Computing, Machine Learning.
+* **ComputationalChemistryandPhysics**: Quantum Chemistry (ORCA), Molecula DDynamics (GROMACS and LAMMPS), Atomic Simulation Environment, Molecular Visualisation (PyMOL, VMD and Avogadro) and Biomolecular Simulation.
 
 Publications
 ======
