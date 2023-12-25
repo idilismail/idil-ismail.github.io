@@ -58,3 +58,15 @@ Service and leadership
 * **Lead Demonstrator of The Saturday Chemistry Club**: a BASF-funded Saturday science club for A-level students to prepare them for higher education.
 * **Chair of the Warwick Network for Ethnic Minority Students (NEMP)**: a community based platform for postgraduate students from marginalised backgrounds to share ideas, experiences and foster meaningful relationships and networking opportunities.
 * **Advisory Board Member**: Enhancing Research Cultureat the University of Warwick.
+
+
+
+Awards
+======
+
+* Outreach Award | for outstanding work in organising HetSys outreach projects, 07/2022. 
+* Talk Prize | Computational Chemistry Midlands Meeting, University of Manchester, 05/2022. 
+* Iota Sigma Pi Travel Award | $500 Travel Award; awarded based on research merit, 01/2022. 
+* Talk Prize | HetSys CDT Summer Conference, University of Warwick, 07/2021.
+* EPSRC Four-year Doctoral Scholarship | UKRI PhD Research Funding, 09/2019.
+* John Pryde Prize | for Best Final Year Performance for the Degree of BSc (Hons) Biochemistry, 07/2018.
