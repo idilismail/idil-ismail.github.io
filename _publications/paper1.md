@@ -1,9 +1,5 @@
 ---
-list_title: “[1] 
-Automatic proposal of multistep reaction mechanisms using a graph-driven search"
-published: journal
-title: "
-Automatic proposal of multistep reaction mechanisms using a graph-driven search"
+title: "Automatic proposal of multistep reaction mechanisms using a graph-driven search"
 authors: 'I. Ismail, H. Fowler, C. Ashok, C. Robertson, and S. Habershon'
 date: 2019-03-22
 collection: publications
