@@ -27,15 +27,9 @@ Education
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 * **Programming**: Python, Fortran, Git, UNIX/Bash, HighPer formance Computing, Machine Learning.
-* **ComputationalChemistryandPhysics**: Quantum Chemistry (ORCA), Molecula DDynamics (GROMACS and LAMMPS), Atomic Simulation Environment, Molecular Visualisation (PyMOL, VMD and Avogadro) and Biomolecular Simulation.
+* **Computational Chemistry and Physics**: Quantum Chemistry (ORCA), Molecular Dynamics (GROMACS and LAMMPS), Atomic Simulation Environment, Molecular Visualisation (PyMOL, VMD and Avogadro) and Biomolecular Simulation.
 
 Publications
 ======
@@ -51,13 +45,16 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
 * Graduate Teaching Assistant - CH222 Computational Chemistry
 * Graduate Teaching Assistant - CH222 Experimental Chemistry
 * Graduate Teaching Assistant - BS349 Science Communication 
  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
+* **Lead Seminar Organiser and Speaker**: The Computational Toolkit Seminar Series. Developed an online seminar series centred around computational science, created online content for open access and wider dissemination, gave talks and convened the entire program of seminars.
+* **Lead Host & Producer of Multiscale Musings Podcast**: a podcast series about computational science where we interview academics with research interests in the area of multi-scale predictive modelling.
+* **Lead Demonstrator of The Saturday Chemistry Club**: a BASF-funded Saturday science club for A-level students to prepare them for higher education.
+* **Chair of the Warwick Network for Ethnic Minority Students (NEMP)**: a community based platform for postgraduate students from marginalised backgrounds to share ideas, experiences and foster meaningful relationships and networking opportunities.
+* **Advisory Board Member**: Enhancing Research Cultureat the University of Warwick.
