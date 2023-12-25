@@ -53,11 +53,11 @@ Teaching
 Service and leadership
 ======
 
-* **Lead Seminar Organiser and Speaker**: The Computational Toolkit Seminar Series. Developed an online seminar series centred around computational science, created online content for open access and wider dissemination, gave talks and convened the entire program of seminars.
-* **Lead Host & Producer of Multiscale Musings Podcast**: a podcast series about computational science where we interview academics with research interests in the area of multi-scale predictive modelling.
+* **Lead Seminar Organiser and Speaker**: The Computational Toolkit Seminar Series. Developed an online seminar series centred around computational science, created online content for open access and wider dissemination, gave talks and convened the entire program of seminars. [this URL](https://computationaltoolkit.github.io/)
+* **Lead Host & Producer of Multiscale Musings Podcast**: a podcast series about computational science where we interview academics with research interests in the area of multi-scale predictive modelling. [this URL](https://open.spotify.com/show/2LnUjy779HNyXXqrsGHKyY)
 * **Lead Demonstrator of The Saturday Chemistry Club**: a BASF-funded Saturday science club for A-level students to prepare them for higher education.
-* **Chair of the Warwick Network for Ethnic Minority Students (NEMP)**: a community based platform for postgraduate students from marginalised backgrounds to share ideas, experiences and foster meaningful relationships and networking opportunities.
-* **Advisory Board Member**: Enhancing Research Culture at the University of Warwick.
+* **Chair of the Warwick Network for Ethnic Minority Students (NEMP)**: a community based platform for postgraduate students from marginalised backgrounds to share ideas, experiences and foster meaningful relationships and networking opportunities. [this URL](https://warwick.ac.uk/services/dc/phdlife/phdnetworks/nemp/)
+* **Advisory Board Member**: Enhancing Research Culture at the University of Warwick. [this URL](https://warwick.ac.uk/fac/soc/ces/research/current/padc/researchadvisoryboard/)
 
 
 
