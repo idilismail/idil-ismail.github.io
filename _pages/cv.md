@@ -54,7 +54,10 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+* Graduate Teaching Assistant - CH222 Computational Chemistry
+* Graduate Teaching Assistant - CH222 Experimental Chemistry
+* Graduate Teaching Assistant - BS349 Science Communication 
+ 
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
