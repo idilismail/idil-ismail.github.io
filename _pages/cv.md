@@ -49,11 +49,13 @@ Teaching
 * Graduate Teaching Assistant - CH222 Computational Chemistry
 * Graduate Teaching Assistant - CH222 Experimental Chemistry
 * Graduate Teaching Assistant - BS349 Science Communication 
+* Graduate Online Seminar Series - The Computational Toolkit Seminar Series
  
 Service and leadership
 ======
 
-* **Lead Seminar Organiser and Speaker**: The Computational Toolkit Seminar Series. Developed an online seminar series centred around computational science, created online content for open access and wider dissemination, gave talks and convened the entire program of seminars. [link](https://computationaltoolkit.github.io/)
+* **Lead Seminar Organiser and Speaker**: The Computational Toolkit Seminar Series. Developed an online seminar series centred around computational science, created online content for open access and wider dissemination, gave talks, convened the entire program of seminars, and wrote a collaborative paper summarising key tips and methods in computational science, based on this seminar series. [link](https://computationaltoolkit.github.io/)
+
 * **Lead Host & Producer of Multiscale Musings Podcast**: a podcast series about computational science where we interview academics with research interests in the area of multi-scale predictive modelling. [link](https://open.spotify.com/show/2LnUjy779HNyXXqrsGHKyY)
 * **Lead Demonstrator of The Saturday Chemistry Club**: a BASF-funded Saturday science club for A-level students to prepare them for higher education.
 * **Chair of the Warwick Network for Ethnic Minority Students (NEMP)**: a community based platform for postgraduate students from marginalised backgrounds to share ideas, experiences and foster meaningful relationships and networking opportunities. [link](https://warwick.ac.uk/services/dc/phdlife/phdnetworks/nemp/)
