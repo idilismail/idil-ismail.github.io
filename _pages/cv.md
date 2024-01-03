@@ -69,5 +69,5 @@ Awards
 * **Talk Prize**: Computational Chemistry Midlands Meeting, University of Manchester, 05/2022. 
 * **Iota Sigma Pi Travel Award**: $500 Travel Award; awarded based on research merit, 01/2022. 
 * **Talk Prize**: HetSys CDT Summer Conference, University of Warwick, 07/2021.
-* **EPSRC Four-year Doctoral Scholarship**:  UKRI PhD Research Funding, 09/2019.
+* **EPSRC Four-year Doctoral Scholarship**:  ~ ￡100,000 UKRI PhD Research Funding, 09/2019.
 * **John Pryde Prize**: for Best Final Year Performance for the Degree of BSc (Hons) Biochemistry, 07/2018.
